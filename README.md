@@ -1,3 +1,6 @@
+ [![Docker Stars](https://img.shields.io/docker/stars/intershopde/docker-confd.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/intershopde/docker-confd/stars/count/) [![Docker pulls](https://img.shields.io/docker/pulls/intershopde/docker-confd.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/intershopde/docker-confd/)
+[![Docker Automated build](https://img.shields.io/docker/automated/intershopde/docker-confd.svg?maxAge=2592000?style=plastic)](https://github.com/IntershopCommunicationsAG/docker-confd/)
+
 # Docker Confd Config
 
 This image provides a configuration file `/confd-out/config` from environment variables via volume to be used in other containers.
